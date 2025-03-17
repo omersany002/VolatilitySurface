@@ -79,28 +79,25 @@ The script will perform the following tasks:
 Two 2D plots were generated to verify that the model-implied volatilities are fitting the market data reasonably well:
 
 - **Black-Scholes IV Fit:**  
-  ![bs_iv_fit](https://github.com/user-attachments/assets/6bdb27d3-80d3-4b84-9e44-f5fe54f2d216)
+  ![bs_iv_fit](plots/bs_iv_fit.png)
 
 - **Heston IV Fit:**  
-![heston_iv_fit](https://github.com/user-attachments/assets/0f67bb47-71ad-4c3b-bf6e-d49ae3f8f2a6)
+![heston_iv_fit](plots/heston_iv_fit.png)
 
 
 ### Volatility Surfaces
 
 - **Market Implied Volatility Surface:**  
-![market](https://github.com/user-attachments/assets/0bb8c97d-977f-4212-89f8-c48978024b27)
 
-  [View Interactive Market IV Surface](plots/market_iv_surface.html)
+  ![Interactive Market IV Surface](plots/market_iv_surface.html)
 
 - **Black-Scholes Implied Volatility Surface:**  
-![bs](https://github.com/user-attachments/assets/7d48285a-0edc-4c33-a66a-363124b73ba1)
 
-  [View Interactive Black-Scholes IV Surface](plots/bs_iv_surface.html)
+  ![View Interactive Black-Scholes IV Surface](plots/bs_iv_surface.html)
 
 - **Heston Model Implied Volatility Surface:**  
-![heston](https://github.com/user-attachments/assets/b0b174f3-7f08-4514-9964-6fd0b9b85246)
 
-  [View Interactive Heston IV Surface](plots/heston_iv_surface.html)
+  ![Interactive Heston IV Surface](plots/heston_iv_surface.html)
 
 ### RMSE Comparison
 
