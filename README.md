@@ -88,16 +88,16 @@ Two 2D plots were generated to verify that the model-implied volatilities are fi
 ### Volatility Surfaces
 
 - **Market Implied Volatility Surface:**  
-
-  ![Interactive Market IV Surface](plots/market_iv_surface.html)
+  ![market_iv_surface](https://github.com/user-attachments/assets/a0686871-aa06-46b9-83c2-a1be7f36e180)
+  [Interactive Market IV Surface](plots/market_iv_surface.html)
 
 - **Black-Scholes Implied Volatility Surface:**  
-
-  ![View Interactive Black-Scholes IV Surface](plots/bs_iv_surface.html)
+  ![bs_iv_surface](https://github.com/user-attachments/assets/acb51918-2fa0-4f13-901b-2faf68addb1a)
+  [View Interactive Black-Scholes IV Surface](plots/bs_iv_surface.html)
 
 - **Heston Model Implied Volatility Surface:**  
-
-  ![Interactive Heston IV Surface](plots/heston_iv_surface.html)
+  ![heston_iv_surface](https://github.com/user-attachments/assets/8465ea6f-2cec-4083-b686-a3ec7c7b7b49)
+  [Interactive Heston IV Surface](plots/heston_iv_surface.html)
 
 ### RMSE Comparison
 
